@@ -1,5 +1,5 @@
 cards:
-  message: Welcome to Microservices Bank Cards dev
+  message: Welcome to Microservices Bank Cards dev webhook
   contactDetails:
     name: John Doe Developer
     email: john@example.com
