@@ -1,5 +1,5 @@
 accounts:
-  message: Welcome to Microservices Bank Accounts for prod webhook works
+  message: Welcome to Microservices Bank Accounts for production
   contactDetails:
     name: Andrii Kuchera - Product Owner
     email: andrii@example.com
