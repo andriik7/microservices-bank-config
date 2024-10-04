@@ -1,5 +1,5 @@
 accounts:
-  message: Welcome to Microservices Bank Accounts webhook
+  message: Welcome to Microservices Bank Accounts webhook update
   contactDetails:
     name: John Doe Developer
     email: john@example.com
