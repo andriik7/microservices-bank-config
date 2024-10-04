@@ -1,5 +1,5 @@
 cards:
-  message: Welcome to Microservices Bank Cards for production
+  message: Welcome to Microservices Bank Cards for production docker
   contactDetails:
     name: Andrii Kuchera - Product Owner
     email: andrii@example.com
