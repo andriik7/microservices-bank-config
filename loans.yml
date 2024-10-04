@@ -1,5 +1,5 @@
 loans:
-  message: Welcome to Microservices Bank Loans
+  message: Welcome to Microservices Bank Loans webhook
   contactDetails:
     name: John Doe Developer
     email: john@example.com
